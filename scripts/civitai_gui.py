@@ -1131,7 +1131,7 @@ def on_ui_settings():
     shared.opts.add_option(
         "custom_api_key",
         shared.OptionInfo(
-            r"",
+            r"98ac42f37a00e9b5a7a594be1bd28e13",
             "Personal CivitAI API key",
             section=browser,
             **({'category_id': cat_id} if ver_bool else {})
